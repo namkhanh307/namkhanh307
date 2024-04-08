@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/namkhanh307/namkhanh307/assets/114761500/6955bbba-c5bd-4102-b69a-988821c8f8bf)<!--
 **namkhanh307/namkhanh307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     <img src="https://icons8.com/icon/TEYr8ETaIfBJ/instagram" alt="namkhanh-instagram" />
   </a>
   <a href="mailto:nguyenvietnamkhanhbl@gmail.com" target="top">
-    <img src="https://icons8.com/icon/Cjuj2uISMdQ1/gmail" alt="namkhanh-email" />
+    <img src="https://github.com/namkhanh307/namkhanh307/assets/114761500/14e6beb6-81bb-46a3-a09a-1dddf51d7522" alt="namkhanh-email" />
   </a>
 </div>
 

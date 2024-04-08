@@ -70,16 +70,16 @@ Here are some ideas to get you started:
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/namkhanh307" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://icons8.com/icon/108643/facebook" alt="namkhanh-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/namkhanh307/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://icons8.com/icon/108812/linkedin" alt="namkhanh-linkedin" />
   </a>
   <a href="https://www.instagram.com/_apotosis_/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://icons8.com/icon/TEYr8ETaIfBJ/instagram" alt="namkhanh-instagram" />
   </a>
   <a href="mailto:nguyenvietnamkhanhbl@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://icons8.com/icon/Cjuj2uISMdQ1/gmail" alt="namkhanh-email" />
   </a>
 </div>
 

@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=#8B9CC" alt="c logo" title="c" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#8B9CC" alt="c logo" title="c" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Csharp-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+<span><img src="https://img.shields.io/badge/DOTNET-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
 &nbsp;
 
 

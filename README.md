@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#8B9CC" alt="c logo" title="c" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C#-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
 &nbsp;

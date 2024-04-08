@@ -45,14 +45,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="namkhanh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namkhanh307&hide_progress=true" />
-  </a>
     <a href="#" title="namkhanh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namkhanh307&layout=compact" />
-  </a>
-      <a href="#" title="namkhanh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namkhanh307&layout=donut" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namkhanh307&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
     <a href="#" title="namkhanh">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=namkhanh307&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />

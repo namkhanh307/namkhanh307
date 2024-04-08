@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftAzure-282C34?logo=microsoftazure&logoColor=0078D4" alt="microsoftazure logo" title="microsoftazure" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
@@ -40,9 +42,14 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="oracle logo" title="oracle" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/ApacheNetbeansIDE-282C34?logo=apachenetbeanside&logoColor=1B6AC6" alt="apachenetbeanside logo" title="apachenetbeanside" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VisualStudio-282C34?logo=visualstudio&logoColor=#C2D91" alt="visualstudio logo" title="visualstudio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=visualstudiocode&logoColor=4479A1" alt="visualstudiocode logo" title="visualstudiocode" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>
 &nbsp;
-
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>

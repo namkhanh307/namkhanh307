@@ -1,19 +1,8 @@
-![image](https://github.com/namkhanh307/namkhanh307/assets/114761500/6955bbba-c5bd-4102-b69a-988821c8f8bf)<!--
-**namkhanh307/namkhanh307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Expense Sharing Project 
+- 🌱 I’m currently learning about web API
+- 👯 I’m desired to be an intern at AMAZING TECH Company with BE position
 - ⚡ Fun fact: ...
 -->
-<!-- Trungquandev -->
-
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -56,10 +45,10 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="namkhanh">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namkhanh307&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="namkhanh">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=namkhanh307&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>

@@ -70,13 +70,13 @@ Here are some ideas to get you started:
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/namkhanh307" target="_blank">
-    <img src="https://icons8.com/icon/108643/facebook" alt="namkhanh-facebook" />
+    <img src="https://github.com/namkhanh307/namkhanh307/assets/114761500/b9416f4f-d260-4dec-8954-779755819e8e" alt="namkhanh-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/namkhanh307/" target="_blank">
-    <img src="https://icons8.com/icon/108812/linkedin" alt="namkhanh-linkedin" />
+    <img src="https://github.com/namkhanh307/namkhanh307/assets/114761500/2ae1d154-b4fd-4c23-a275-9438b72c9b56)" alt="namkhanh-linkedin"/>
   </a>
   <a href="https://www.instagram.com/_apotosis_/" target="_blank">
-    <img src="https://icons8.com/icon/TEYr8ETaIfBJ/instagram" alt="namkhanh-instagram" />
+    <img src="https://github.com/namkhanh307/namkhanh307/assets/114761500/e7096c3b-7c91-4b6d-a078-e86a21247ea1" alt="namkhanh-instagram" />
   </a>
   <a href="mailto:nguyenvietnamkhanhbl@gmail.com" target="top">
     <img src="https://github.com/namkhanh307/namkhanh307/assets/114761500/14e6beb6-81bb-46a3-a09a-1dddf51d7522" alt="namkhanh-email" />

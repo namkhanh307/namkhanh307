@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/namkhanh307" target="blank">
+  <a href="https://www.facebook.com/namkhanh307" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/namkhanh307/" target="blank">
+  <a href="https://www.linkedin.com/in/namkhanh307/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/_apotosis_/" target="blank">
+  <a href="https://www.instagram.com/_apotosis_/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
   <a href="mailto:nguyenvietnamkhanhbl@gmail.com" target="top">

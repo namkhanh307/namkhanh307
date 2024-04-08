@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/ApacheNetbeansIDE-282C34?logo=apachenetbeanside&logoColor=1B6AC6" alt="apachenetbeanside logo" title="apachenetbeanside" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VisualStudio-282C34?logo=visualstudio&logoColor=#C2D91" alt="visualstudio logo" title="visualstudio" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VisualStudio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="visualstudio" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=visualstudiocode&logoColor=4479A1" alt="visualstudiocode logo" title="visualstudiocode" height="25" /></span>
 &nbsp;

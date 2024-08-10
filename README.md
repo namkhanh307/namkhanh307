@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on Expense Sharing Project 
 - 🌱 I’m currently learning about DevOps
 - 👯 I’m an intern at AMAZING TECH Company with BE position from May
-- 
 -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

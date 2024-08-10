@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Expense Sharing Project 
-- 🌱 I’m currently learning about web API
-- 👯 I’m desired to be an intern at AMAZING TECH Company with BE position
+- 🌱 I’m currently learning about DevOps
+- 👯 I’m an intern at AMAZING TECH Company with BE position from May
 -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

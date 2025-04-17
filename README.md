@@ -12,11 +12,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#8B9CC" alt="c logo" title="c" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#8B9CC" alt="c logo" title="c" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
 &nbsp;

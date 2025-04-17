@@ -6,19 +6,25 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" alt="github logo" title="github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VisualStudio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="visualstudio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=visualstudiocode&logoColor=4479A1" alt="visualstudiocode logo" title="visualstudiocode" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#8B9CC" alt="c logo" title="c" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="microsoftsqlserver" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>
 &nbsp;
@@ -26,15 +32,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" alt="github logo" title="github" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="oracle logo" title="oracle" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ApacheNetbeansIDE-282C34?logo=apachenetbeanside&logoColor=1B6AC6" alt="apachenetbeanside logo" title="apachenetbeanside" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VisualStudio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="visualstudio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=visualstudiocode&logoColor=4479A1" alt="visualstudiocode logo" title="visualstudiocode" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>
 &nbsp;

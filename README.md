@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Expense Sharing Project and Viet Y Clinic Mangement Project
+- 🔭 I’m currently working on Expense Sharing Project and Secret Sharing Project
 - 🌱 I’m currently learning about DevOps
 -->
 
